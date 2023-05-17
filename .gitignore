@@ -5,3 +5,5 @@
 **.log
 *.plan
 *.vscode
+app-service-principal.json
+pull-secret.txt
